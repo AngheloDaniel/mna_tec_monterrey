@@ -1,0 +1,10 @@
+::Results::
+
+Count: 400 records
+Mean: 242.32
+Median: 239.5
+Mode: 393.0
+Standard Deviation: 145.25810683056557
+Variance: 21152.79959899749
+
+Elapsed Time: 0.00099397 seconds
