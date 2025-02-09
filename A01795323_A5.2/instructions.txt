@@ -1,0 +1,2 @@
+Example of how to run the script on a terminal:
+python compute_sales.py TC1.ProductList.json TC3.Sales.json

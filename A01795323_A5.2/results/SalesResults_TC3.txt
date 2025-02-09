@@ -1,0 +1,2 @@
+Total cost for all sales: $165235.37
+Elapsed Time: 0.01099730 seconds
